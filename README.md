@@ -15,7 +15,7 @@ This repo is intended as part of my research on how to make [GIRLsmarts4tech](ht
 			- [Cons](#cons)
 			- [Support](#support)
 			- [Apple + Code.org](#apple-codeorg)
-	- [TODO](#todo)
+	- [TODOs](#todos)
 
 <!-- /TOC -->
 
@@ -51,7 +51,7 @@ I did Learn to Code 1 (Swift 3.1): Commands, Functions, For Loops.
 
 While researching I found that in 2016, Apple partnered up with [Code.org](code.org) to host in-store, hour-long coding sessions from December 5-11, which was during the [Computer Science Education Week](https://csedweek.org/). Not sure if they will do this again this year (2017).
 
-## TODO
+## TODOs
 
 Go through the list:
 
@@ -60,6 +60,10 @@ Go through the list:
 - [Scratch](https://scratch.mit.edu/) (mainly to see what we can build on it, if possible)
 - [Alternatives to Scratch by ScratchWiki](https://wiki.scratch.mit.edu/wiki/Alternatives_to_Scratch)
 - [Hour of Code](https://code.org/learn)
+  - [Teacher-Led Hour of Code Lesson Plans](https://code.org/educate/curriculum/teacher-led)
+  - [K-8 Intro to Computer Science](https://code.org/educate/curriculum/accelerated-course)
+  - [Beyond an Hour of Code](https://hourofcode.com/ca/beyond#student-section)
+- [Teach Your Kids to Code: 6 Beginner's Resources for Parents](https://www.edutopia.org/blog/teach-kids-coding-resources-parents-matt-davis)
 - [awesome-beginners](https://github.com/jondot/awesome-beginners)
 - [kids-who-code](https://github.com/dmehra/kids-who-code)
 - [cs tech jam community events](https://csedweek.org/educate/cstechjam)
