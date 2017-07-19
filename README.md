@@ -1,3 +1,11 @@
+# Teach Kids To Code
+
+A list of resources to teach kids how to code, with my personal thoughts of them.
+
+This repo is intended as part of my research on how to make [GIRLsmarts4tech](http://www.cs.ubc.ca/girlsmarts4tech/)'s programming activity better.
+
+**Table of Contents**
+
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Teach Kids To Code](#teach-kids-to-code)
@@ -10,12 +18,6 @@
 	- [TODO](#todo)
 
 <!-- /TOC -->
-
-# Teach Kids To Code
-
-A list of resources to teach kids how to code, with my personal thoughts of them.
-
-This repo is intended as part of my research on how to make [GIRLsmarts4tech](http://www.cs.ubc.ca/girlsmarts4tech/)'s programming activity better.
 
 ## Platforms
 
