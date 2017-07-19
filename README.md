@@ -1,3 +1,16 @@
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Teach Kids To Code](#teach-kids-to-code)
+	- [Platforms](#platforms)
+		- [Apple Swift Playgrounds on iPad](#apple-swift-playgrounds-on-ipad)
+			- [Pros](#pros)
+			- [Cons](#cons)
+			- [Support](#support)
+			- [Apple + Code.org](#apple-codeorg)
+	- [TODO](#todo)
+
+<!-- /TOC -->
+
 # Teach Kids To Code
 
 A list of resources to teach kids how to code, with my personal thoughts of them.
@@ -6,7 +19,7 @@ This repo is intended as part of my research on how to make [GIRLsmarts4tech](ht
 
 ## Platforms
 
-### [Apple Swift Playgraounds](https://www.apple.com/ca/swift/playgrounds/) on iPad
+### [Apple Swift Playgrounds](https://www.apple.com/ca/swift/playgrounds/) on iPad
 
 I did Learn to Code 1 (Swift 3.1): Commands, Functions, For Loops.
 
@@ -22,7 +35,7 @@ I did Learn to Code 1 (Swift 3.1): Commands, Functions, For Loops.
 - Challenging: I find it fairly challenging, especially pattern-finding
 - Hard to type on tablets
 - Really slow to tap commands: after each tap the panel will disappear for ~1 second and reappear
-- Really slow to run code: complie Swift code in real time I'm assuming
+- Really slow to run code: compile Swift code in real time I'm assuming
 - Maybe too much text for kids
 - Device constraint - only on iPads
 
@@ -48,4 +61,3 @@ Go through the list:
 - [awesome-beginners](https://github.com/jondot/awesome-beginners)
 - [kids-who-code](https://github.com/dmehra/kids-who-code)
 - [cs tech jam community events](https://csedweek.org/educate/cstechjam)
-
