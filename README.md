@@ -9,15 +9,30 @@ This repo is intended as part of my research on how to make [GIRLsmarts4tech](ht
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Teach Kids To Code](#teach-kids-to-code)
+	- [Topics](#topics)
 	- [Platforms](#platforms)
 		- [Apple Swift Playgrounds on iPad](#apple-swift-playgrounds-on-ipad)
 			- [Pros](#pros)
 			- [Cons](#cons)
 			- [Support](#support)
 			- [Apple + Code.org](#apple-codeorg)
+		- [Code Monkey](#code-monkey)
+			- [Pros](#pros)
+			- [Cons](#cons)
 	- [TODOs](#todos)
 
 <!-- /TOC -->
+
+## Topics
+
+- Commands
+- Functions
+- For Loops (Apple Hour of Code taught these three)
+- Conditionals
+- Logical Operators
+- While Loops
+- Algorithms
+- Variables
 
 ## Platforms
 
@@ -25,9 +40,15 @@ This repo is intended as part of my research on how to make [GIRLsmarts4tech](ht
 
 I did Learn to Code 1 (Swift 3.1): Commands, Functions, For Loops.
 
+General impression of it is that it moves fast, so it's probably more suitable for older kids.
+
 #### Pros
 
+- Free
 - Engaging, fun and interactive
+- Jump right in with Swift syntax
+- Teach Swift, which is an actual programming language
+- Cover a wide range of fundamental topics
 - Useful stepper
 - Easy to drag and drop
 - Built-in glossary
@@ -50,6 +71,23 @@ I did Learn to Code 1 (Swift 3.1): Commands, Functions, For Loops.
 #### [Apple + Code.org](https://www.apple.com/ca/retail/code/)
 
 While researching I found that in 2016, Apple partnered up with [Code.org](code.org) to host in-store, hour-long coding sessions from December 5-11, which was during the [Computer Science Education Week](https://csedweek.org/). Not sure if they will do this again this year (2017).
+
+### [Code Monkey](https://www.playcodemonkey.com)
+
+I did Challenge 1-12.
+
+General impression is that it moves fairly slowly, so maybe it's better for younger kids.
+
+#### Pros
+
+There is nothing too special about Code Monkey. Maybe the good thing is that it looks easier than using programming syntax, but I personally wouldn't consider that as a bonus since the goal is to teach kids to code.
+
+#### Cons
+
+- Not free if you want the full game
+- Move fairly slowly: you can't skip easier challenges
+- More math in the beginning: lots of step and angle measurements
+- Not explaining programming concepts
 
 ## TODOs
 
