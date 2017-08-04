@@ -2,7 +2,7 @@
 
 A list of resources that teach kids to code, with my personal thoughts of them.
 
-This repo is intended as part of my research on how to make [GIRLsmarts4tech](http://www.cs.ubc.ca/girlsmarts4tech/)'s programming activity better.
+This repo is intended as part of my research on how to make [GIRLsmarts4tech](http://www.cs.ubc.ca/girlsmarts4tech/)'s programming activity better. If are curious about what we do in the end, I wrote a blog post about it: [Redesign GIRLsmarts4tech’s Programming Activity](http://www.mandychen.me/blog/redesign-girlsmarts4tech-programming-activity).
 
 **Table of Contents**
 
